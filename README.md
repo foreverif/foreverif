@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @foreverif
-- 👀 I’m interested in cloudnative
-- 🌱 I’m currently learning istio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : QQ 463736164
+- 👋 Hi, I’m Frankie
+- Let's dig in LLM's potential
 
 <!---
 foreverif/foreverif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
